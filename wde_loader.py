@@ -27,7 +27,7 @@ def exec(path: str) -> Any:
     try: 
         entry_return = module.WDEApp().__entry__()
 
-        return entry_return
+        return module
     except Exception as e:
         print(f"Failed at exec: {e}")
 
