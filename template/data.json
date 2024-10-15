@@ -1,0 +1,14 @@
+{
+    "project_name": "template_app",
+    "author": "uwu",
+    "licence": "CC_martellare",
+    "version": "1.0",
+    "description": 0,
+    "project_website": 0,
+    "author_website": 0,
+
+    "dpgtl_style_path": 0,
+    "default_icon_path": 0,
+
+    "on_screen_keyboard": false
+}
